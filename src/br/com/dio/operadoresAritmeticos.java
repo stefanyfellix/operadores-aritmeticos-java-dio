@@ -8,9 +8,7 @@ public class operadoresAritmeticos {
         aritmetico();
         System.out.println("atribuições");
         atribuicoes();
-
-    }
-
+        System.out.println("finish");}
     public static void prePos() {
 
         int a = 10;
